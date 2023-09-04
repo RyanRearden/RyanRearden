@@ -1,6 +1,5 @@
 
-Hello! My name is Ryan, I am a college student interested in VR simultation--especially through Unity. 
-I am currently learning how to improve my Unity and Blender skills by creating many stills, animations, and games for fun!
+Hello! My name is Ryan, I am a college student interested in software engineering. Everyday I aspire to grow my computer science knowledge and learn cool things along the way! 
 
 <!---
 RyanRearden/RyanRearden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
